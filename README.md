@@ -1,3 +1,2 @@
 # IceShader
-
-Developed with Unreal Engine 4
+Ice material for Unreal Engine 4
